@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Hoang-Long2012/Hoang-Long2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hoàng Long**.  
+I'm a Python developer from Vietnam who enjoys building open-source software,
+especially accessibility tools and small command-line utilities for Windows.  
+I'm an introvert, quiet, camera shy and don't like crowds. Normally, if no one starts talking first, I won't say anything.  
+I am a person who likes to write command-line tools, dev tools, library, system utilities, wrappers, launchers, glue, bridges and add-ons for NVDA.  
+I am a follower of the Unix philosophy and classic hacker culture.
 
-Here are some ideas to get you started:
+## ❤️ Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Accessibility
+- Windows
+- Command-line tools
+- Open source
+
+## 🌱 Currently learning
+
+- WinAPI
+- Python internals
+- Software design
+
+## 🤝 Contributing
+
+I enjoy contributing to open-source projects, especially those related to
+accessibility and developer tools.
+
+## 📫 Contact
+
+- Email: hoanglongdeptrai392@gmail.com
+- Telegram: @Long_2012
