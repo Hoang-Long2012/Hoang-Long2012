@@ -3,9 +3,9 @@
 I'm **Hoàng Long**.  
 I'm a Python developer from Vietnam who enjoys building open-source software,
 especially accessibility tools and small command-line utilities for Windows.  
-I'm an introvert, quiet, camera shy and don't like crowds. Normally, if no one starts talking first, I won't say anything.  
-I am a person who likes to write command-line tools, dev tools, library, system utilities, wrappers, launchers, glue, bridges and add-ons for NVDA.  
-I am a follower of the Unix philosophy and classic hacker culture.
+I enjoy building command-line tools, developer tools, libraries, system utilities, wrappers, launchers, bridges, and NVDA add-ons.  
+I am a follower of the Unix philosophy and classic hacker culture.  
+I'm a person who likes things to be simple, clear, and do exactly what they need to do.
 
 ## ❤️ Interests
 
