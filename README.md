@@ -1,5 +1,3 @@
-![](GitHub_Avatar.png)
-
 # Hi there 👋
 
 I'm **Hoàng Long**.  
