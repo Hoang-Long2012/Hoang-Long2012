@@ -1,4 +1,4 @@
-![A dollar sign is located in the middle of a small white circle on a dark blue background.](GitHub_Avatar.png)
+![](GitHub_Avatar.png)
 
 # Hi there 👋
 
