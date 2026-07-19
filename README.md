@@ -7,7 +7,7 @@ I enjoy building command-line tools, developer tools, libraries, system utilitie
 I enjoy the Unix philosophy and classic hacker culture.  
 I'm a person who likes things to be simple, clear, and do exactly what they need to do.
 
-## ❤️ Interests
+## Interests
 
 - Python
 - Accessibility
@@ -15,18 +15,22 @@ I'm a person who likes things to be simple, clear, and do exactly what they need
 - Command-line tools
 - Open source
 
-## 🌱 Currently learning
+## Currently learning
 
 - WinAPI
 - Python internals
 - Software design
 
-## 🤝 Contributing
+## Contributing
 
 I enjoy contributing to open-source projects, especially those related to
 accessibility and developer tools.
 
-## 📫 Contact
+## Repositories
+
+I often write some tools and NVDA add-ons for myself and post them on Git Hub to share with everyone. You can see them  here (http S:  github com Hoang-Long 2012 tab  repositories)
+
+## Contact
 
 - Email: hoanglongdeptrai392@gmail.com
 - Telegram: @Long_2012
