@@ -28,7 +28,8 @@ accessibility and developer tools.
 
 ## Repositories
 
-I often write some tools and NVDA add-ons for myself and post them on Git Hub to share with everyone. You can see them  here (http S:  github com Hoang-Long 2012 tab  repositories)
+I often write some tools and NVDA add-ons for myself and post them on Git Hub to share with everyone.  
+You can [see them  here](http S:  github com Hoang-Long 2012 tab  repositories)
 
 ## Contact
 
