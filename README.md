@@ -15,6 +15,14 @@ I'm a person who likes things to be simple, clear, and do exactly what they need
 - Command-line tools
 - Open source
 
+## Principles
+
+- Keep it simple.
+- Prefer open source.
+- Command line first.
+- Accessibility matters.
+- Small tools that do one thing well.
+
 ## Currently learning
 
 - WinAPI
@@ -28,8 +36,8 @@ accessibility and developer tools.
 
 ## Repositories
 
-I often write some tools and NVDA add-ons for myself and post them on Git Hub to share with everyone.  
-You can See some of my featured repositories pinned below or [see ALL them  here](https://github.com/Hoang-Long2012?tab=repositories)
+I often build tools and NVDA add-ons for myself, then publish them on GitHub to share with everyone.  
+You can See some of my featured repositories  below or [browse ALL of them  here](https://github.com/Hoang-Long2012?tab=repositories)
 
 ## Contact
 
