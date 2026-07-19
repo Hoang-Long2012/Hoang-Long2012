@@ -4,8 +4,8 @@ I'm **Hoàng Long**.
 I'm a Python developer from Vietnam who enjoys building open-source software,
 especially accessibility tools and small command-line utilities for Windows.  
 I enjoy building command-line tools, developer tools, libraries, system utilities, wrappers, launchers, bridges, and NVDA add-ons.  
-I enjoy the Unix philosophy and classic hacker culture.  
-I'm a person who likes things to be simple, clear, and do exactly what they need to do.
+The Unix philosophy and classic hacker culture have greatly influenced how I design software.  
+I like software that is simple, clear, and does exactly what it is supposed to do.
 
 ## Interests
 
@@ -37,7 +37,7 @@ accessibility and developer tools.
 ## Repositories
 
 I often build tools and NVDA add-ons for myself, then publish them on GitHub to share with everyone.  
-You can See some of my featured repositories  below or [browse ALL of them  here](https://github.com/Hoang-Long2012?tab=repositories)
+You can see some of my featured repositories  below or [browse all of them  here](https://github.com/Hoang-Long2012?tab=repositories)
 
 ## Contact
 
