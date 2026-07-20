@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Hoàng Long**.  
+My name's **Hoàng Long**.  
 I'm a Python developer from Vietnam who enjoys building open-source software,
 especially accessibility tools and small command-line utilities for Windows.  
 I enjoy building command-line tools, developer utilities, libraries, and NVDA add-ons.  
