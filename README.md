@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, Thanks for stopping by.
 
 My name's **Hoàng Long**.  
 I'm a Python developer from Vietnam who enjoys building open-source software,
