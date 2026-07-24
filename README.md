@@ -7,7 +7,7 @@ I enjoy building command-line tools, developer utilities, libraries, and NVDA ad
 The Unix philosophy and classic hacker culture have greatly influenced how I design software.  
 I like software that is simple, clear, and does exactly what it is supposed to do.
 
-## Interests
+## My interests
 
 - Python
 - Accessibility
@@ -15,7 +15,7 @@ I like software that is simple, clear, and does exactly what it is supposed to d
 - Command-line tools
 - Open source
 
-## Principles
+## My principles
 
 - Keep it simple.
 - Prefer open source.
@@ -23,23 +23,23 @@ I like software that is simple, clear, and does exactly what it is supposed to d
 - Accessibility matters.
 - Small tools that do one thing well.
 
-## Currently learning
+## What I'm learning
 
 - WinAPI
 - Python internals
 - Software design
 
-## Contributing
+## My contributing
 
 I enjoy contributing to open-source projects, especially those related to
 accessibility and developer tools.
 
-## Repositories
+## My repositories
 
 I often build tools and NVDA add-ons for myself, then publish them on GitHub to share with everyone.  
 You can see some of my featured repositories  below or [browse all of them  here](https://github.com/Hoang-Long2012?tab=repositories)
 
-## Contact
+## Contact info
 
 - Email: hoanglongdeptrai392@gmail.com
 - Telegram: @Long_2012
