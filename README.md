@@ -5,7 +5,8 @@ I'm a Python developer from Vietnam who enjoys building open-source software,
 especially accessibility tools and small command-line utilities for Windows.  
 I enjoy building command-line tools, developer utilities, libraries, and NVDA add-ons.  
 The Unix philosophy and classic hacker culture have greatly influenced how I design software.  
-I like software that is simple, clear, and does exactly what it is supposed to do.
+I like software that is simple, clear, and does exactly what it is supposed to do.  
+I build software because I enjoy solving small problems with simple tools.
 
 ## My interests
 
