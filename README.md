@@ -42,7 +42,7 @@ You can see some of my featured repositories  below or [browse all of them  here
 
 ## Contact info
 
-- Email: hoanglongdeptrai392@gmail.com
+- Email: hoanglongcodes@gmail.com
 - Telegram: [Long_2012](https://t.me/Long_2012)
 - Facebook: [NguyenVuHoangLong2012](https://www.facebook.com/NguyenVuHoangLong2012)
 - Reddit: [Hoang_Long2012](https://www.reddit.com/Hoang_Long2012)
