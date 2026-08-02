@@ -38,7 +38,7 @@ accessibility and developer tools.
 ## My repositories
 
 I often build tools and NVDA add-ons for myself, then publish them on GitHub to share with everyone.  
-You can see the my repositories [at here](https://github.com/Hoang-Long2012?tab=repositories))
+You can see some of my featured repositories  below or [browse all of them  here](https://github.com/Hoang-Long2012?tab=repositories)
 
 ## Contact info
 
