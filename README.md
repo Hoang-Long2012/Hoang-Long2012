@@ -10,6 +10,7 @@ I like software that is simple, clear, and does exactly what it is supposed to d
 Most of my projects are built with Python and are designed to be lightweight, accessible, and dependency-friendly.
 
 ## My interests
+I interest:
 
 - Python
 - Accessibility
@@ -26,6 +27,7 @@ Most of my projects are built with Python and are designed to be lightweight, ac
 - Small tools that do one thing well.
 
 ## What I'm learning
+I'm learning:
 
 - WinAPI
 - Python internals
