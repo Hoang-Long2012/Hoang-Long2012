@@ -30,9 +30,9 @@ These are my working principles:
 ## What I'm learning
 I'm learning:
 
-- WinAPI
+- WinAPI (Windows internals)
 - Python internals
-- Software design
+- Software architecture design
 
 ## My contributions
 
