@@ -6,7 +6,8 @@ especially accessibility tools and small command-line utilities for Windows.
 I enjoy building command-line tools, developer utilities, libraries, and NVDA add-ons.  
 The Unix philosophy and classic hacker culture have greatly influenced how I design software.  
 I build software because I enjoy solving small problems with simple tools.  
-I like software that is simple, clear, and does exactly what it is supposed to do.
+I like software that is simple, clear, and does exactly what it is supposed to do.  
+Most of my projects are built with Python and are designed to be lightweight, accessible, and dependency-friendly.
 
 ## My interests
 
