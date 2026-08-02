@@ -38,12 +38,12 @@ accessibility and developer tools.
 ## My repositories
 
 I often build tools and NVDA add-ons for myself, then publish them on GitHub to share with everyone.  
-You can see some of my featured repositories  below or [browse all of them  here](https://github.com/Hoang-Long2012?tab=repositories)
+You can see some of my featured repositories  below or [browse all of them  here](https://github.com/Hoang-Long2012?tab=repositories).
 
 ## Contact info
 
 - Email: hoanglongcodes@gmail.com
-- Telegram: [Long_2012](https://t.me/Long_2012)
+- Telegram: [@Long_2012](https://t.me/Long_2012)
 - Facebook: [NguyenVuHoangLong2012](https://www.facebook.com/NguyenVuHoangLong2012)
 - Reddit: [Hoang_Long2012](https://www.reddit.com/Hoang_Long2012)
 - Pypi: [HoangLong2012](https://pypi.org/user/HoangLong2012)
