@@ -19,6 +19,7 @@ I interest:
 - Open source
 
 ## My principles
+These are my working principles:
 
 - Keep it simple.
 - Prefer open source.
