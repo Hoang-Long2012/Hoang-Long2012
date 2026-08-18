@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoang-Long2012)
-
 # Hi there 👋, Thanks for stopping by.
 
 My name's **Hoàng Long**.  
